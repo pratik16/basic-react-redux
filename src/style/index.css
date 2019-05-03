@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    padding: 5%;
+}
+.right-button {
+    cursor: pointer;
+    float: right;
+}
+
+.list-item, .col-md-4 {
+    display: inline-block;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "The flash",
+        "speed": 10,
+        "power": 7
+    },
+    {
+        "id": 2,
+        "name": "Reverse flash",
+        "speed": 10,
+        "power": 8
+    },
+    {
+        "id": 3,
+        "name": "Black flash",
+        "speed": 10,
+        "power": 9
+    },
+    {
+        "id": 4,
+        "name": "Savitar",
+        "speed": 10,
+        "power": 10
+    }
+]
